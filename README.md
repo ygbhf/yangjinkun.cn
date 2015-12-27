@@ -1,2 +1,2 @@
-# yangjinkun.cn
-http://yangjinkun.cn
+# YJK
+A homepage for http://yangjinkun.cn
